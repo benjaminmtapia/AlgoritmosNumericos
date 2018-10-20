@@ -1,0 +1,4 @@
+Error Divididas: 0
+Error Spline: 694294273405.446259796619415283
+Error Finitas: -nan
+Error Minimos: 244687302443039789568

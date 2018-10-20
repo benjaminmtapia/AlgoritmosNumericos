@@ -1,0 +1,4 @@
+metodo del trapecio: 7.04683e+87
+metodo de simpson: 7.10554e+87
+error de trapecio: -1
+error de simpson: 8.83002
